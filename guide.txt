@@ -1,0 +1,11 @@
+Html= Hypertext Markup Language
+Html element: h1, h2, h3, h4, h5, h6
+form element
+input element
+image element
+br break a tag new line
+hr horizontal line
+a anchor
+button element
+paragrap elemen
+Attributes: number, text, password, email
